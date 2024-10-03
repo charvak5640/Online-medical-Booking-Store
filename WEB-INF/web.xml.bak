@@ -1,0 +1,16 @@
+<web-app>
+<servlet>
+		<servlet-name>Category</servlet-name>
+		<servlet-class>Category</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Category</servlet-name>
+		<url-pattern>/Category</url-pattern>
+	</servlet-mapping>
+	
+<welcome-file-list>
+<welcome-file>index.html</welcome-file>
+<welcome-file>index.html</welcome-file>
+<welcome-file>cyber.jsp</welcome-file>
+</welcome-file-list>
+</web-app>
